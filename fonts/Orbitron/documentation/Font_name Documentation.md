@@ -1,0 +1,1 @@
+This is a folder for any kind of documentation. PDF speciemns, PNG or JPG images for illustrations, etc.
