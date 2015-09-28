@@ -4,9 +4,16 @@ Repository for creating missed diacritical and other requested glyphs and marks 
 This is the font list:
 
 Aleo
+
 Cabin
+
 Comic Zine OT
+
 Crimson Text
+
 Komika Title
+
 Orbitron
+
 Questrial
+
