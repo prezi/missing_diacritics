@@ -1,8 +1,6 @@
 {
 DisplayStrings = (
-/macron.case,
-"ABLf/serifBottom Y",
-/serifBottom
+A
 );
 copyright = "Copyright (c) 2013 by Alessio Laiso (alessio.laiso@gmail.com). Licensed under the SIL Open Font License, Version 1.2.2";
 customParameters = (
@@ -3908,44 +3906,39 @@ note = at;
 unicode = 0040;
 },
 {
+color = 6;
 glyphname = A;
-lastChange = "2015-10-08 13:48:50 +0000";
+lastChange = "2015-10-08 13:54:52 +0000";
 layers = (
 {
+components = (
+{
+name = serifBottom;
+transform = "{1, 0, 0, 1, -58, 0}";
+},
+{
+name = serifBottom;
+transform = "{1, 0, 0, 1, 494, 0}";
+}
+);
 layerId = "18B4A443-2C69-4DCB-9619-77A7DD6AC8EC";
 name = Light;
 paths = (
 {
 closed = 1;
 nodes = (
-"667 46 LINE",
-"478 708 LINE",
-"427 708 LINE",
-"75 46 LINE",
-"43 43 LINE SMOOTH",
-"30 42 OFFCURVE",
-"22 35 OFFCURVE",
-"21 23 CURVE",
-"18 0 LINE",
-"191 0 LINE",
-"193 23 LINE",
-"195 36 OFFCURVE",
-"188 42 OFFCURVE",
-"173 43 CURVE",
+"104 0 LINE",
 "128 46 LINE",
 "225 232 LINE",
 "563 232 LINE",
 "615 46 LINE",
-"569 43 LINE",
-"554 42 OFFCURVE",
-"546 36 OFFCURVE",
-"544 23 CURVE SMOOTH",
-"541 0 LINE",
-"713 0 LINE",
-"716 23 LINE",
-"717 35 OFFCURVE",
-"712 42 OFFCURVE",
-"699 43 CURVE SMOOTH"
+"628 0 LINE",
+"681 0 LINE",
+"667 46 LINE",
+"478 708 LINE",
+"427 708 LINE",
+"75 46 LINE",
+"49 0 LINE"
 );
 },
 {
@@ -31159,7 +31152,7 @@ unicode = 0303;
 },
 {
 glyphname = serifBottom;
-lastChange = "2015-10-08 13:52:06 +0000";
+lastChange = "2015-10-08 13:54:32 +0000";
 layers = (
 {
 layerId = "18B4A443-2C69-4DCB-9619-77A7DD6AC8EC";
@@ -31168,20 +31161,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"244 38 LINE",
-"257 37 OFFCURVE",
-"263 31 OFFCURVE",
-"262 20 CURVE",
-"259 0 LINE",
-"175 0 LINE",
 "124 0 LINE",
-"39 0 LINE",
-"42 20 LINE",
-"43 31 OFFCURVE",
-"51 37 OFFCURVE",
-"64 38 CURVE",
+"175 0 LINE",
+"259 0 LINE",
+"262 20 LINE",
+"263 31 OFFCURVE",
+"257 37 OFFCURVE",
+"244 38 CURVE",
+"180 40 LINE",
 "128 40 LINE",
-"180 40 LINE"
+"64 38 LINE",
+"51 37 OFFCURVE",
+"43 31 OFFCURVE",
+"42 20 CURVE",
+"39 0 LINE"
 );
 }
 );
