@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macroncomb.case" format="1">
+  <advance width="389"/>
+  <note>
+	macron.case
+  </note>
+  <outline>
+    <contour>
+      <point x="94" y="824" type="line"/>
+      <point x="90" y="794" type="line"/>
+      <point x="298" y="794" type="line"/>
+      <point x="301" y="824" type="line"/>
+    </contour>
+    <contour>
+      <point x="196" y="824" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="187" y="708" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>@MMK_L_T</key>
+	<array>
+		<string>T</string>
+	</array>
+	<key>@MMK_L_V</key>
+	<array>
+		<string>V</string>
+	</array>
+	<key>@MMK_L_W</key>
+	<array>
+		<string>W</string>
+	</array>
+	<key>@MMK_L_Y</key>
+	<array>
+		<string>Y</string>
+	</array>
+	<key>@MMK_R_A</key>
+	<array>
+		<string>A</string>
+	</array>
+</dict>
+</plist>

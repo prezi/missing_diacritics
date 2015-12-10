@@ -1,0 +1,62 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+feature aalt {
+# automatic
+feature sups;
+feature frac;
+feature ordn;
+feature c2sc;
+feature smcp;
+feature case;
+} aalt;
+
+feature sups {
+# automatic
+sub two by twosuperior;
+sub three by threesuperior;
+sub one by onesuperior;
+sub four by foursuperior;
+} sups;
+
+feature frac {
+# automatic
+sub one slash four by onequarter;
+sub one slash two by onehalf;
+sub three slash four by threequarters;
+} frac;
+
+feature ordn {
+# automatic
+sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+} ordn;
+
+feature c2sc {
+# automatic
+sub A by a.sc;
+} c2sc;
+
+feature smcp {
+# automatic
+sub a by a.sc;
+} smcp;
+
+feature case {
+# automatic
+sub grave by grave.case;
+sub dieresis by dieresis.case;
+sub macron by macron.case;
+sub acute by acute.case;
+sub circumflex by circumflex.case;
+sub ring by ring.case;
+sub tilde by tilde.case;
+} case;
+
+feature liga {
+# automatic
+sub f i by fi;
+sub f l by fl;
+} liga;
+
